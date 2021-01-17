@@ -4,7 +4,7 @@ This a simple digital clock made which has dark mode on/off and a awesome ui.
 
 # Library used:
 
-  - Moment
+  - Momentjs
   - Bootstrap v5
 
 ### Installation
